@@ -15,6 +15,14 @@
   <img src="https://komarev.com/ghpvc/?username=chandnibhadarka&color=blue" alt="Profile views"/>
 </p>
 
+<!--
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chandnibhadarka&theme=nord&no-bg=true" alt="chandnibhadarka" />
+  </a>
+</p>
+-->
+
 
 <div>
 
