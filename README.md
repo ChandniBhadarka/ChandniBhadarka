@@ -45,6 +45,26 @@
 
 ---
 
+## 💼 Areas of Expertise 
+<div style="display: flex; justify-content: center;">
+
+|                                          |                                          |
+|------------------------------------------|------------------------------------------|
+| 🤖 AI & Machine Learning                 | 🛡️ AI in Cybersecurity                     |
+| 🗣️ NLP & Text Generation                 | ⚙️ Agentic AI                              |
+| 🎨 Generative AI                         | 📊 Data Science & Predictive Analytics      |
+| 👁️ Computer Vision & Deep Learning       | 📈 Exploratory Data Analysis (EDA)          |
+| 🌐 AI-Driven Web Application Development | 📊 Data Visualization                      |
+| 💾 Model Deployment                      | 🛠️ Feature Engineering                      |
+| 🔄 Data Preprocessing                    | 🗂️ Data Handling & Manipulation             |
+| 📚 Libraries & Frameworks                 | 🛠️ Tools & Platforms                        |
+| 🌱 Version Control & Collaboration        | 🌍 Cloud & Deployment Services               |
+| 💡 Other Technical Skills                 | 🌐 Web Development & APIs                   |
+
+</div>
+
+---
+
 ### 💻 Languages:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
