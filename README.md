@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Chandni</h1>
 
 <p align="center">
-  👩‍💻 Passionate AI Developer | 🧠 Machine Learning Enthusiast | 💻 Data Scientist   
+  👩‍💻 Passionate AI Developer |  💻 Data Scientist   
 </p>
 
 <p align="center">
