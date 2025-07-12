@@ -40,7 +40,7 @@
 ---
 
 ### 📬 Reach me:
-- 📧 Email: chandnibhadarka@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/chandnibhadarka
  
 
 ---
