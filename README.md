@@ -133,6 +133,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandnibhadarka&layout=compact&theme=react)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schandnibhadarka&" alt="chandnibhadarka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandnibhadarka&" alt="chandnibhadarka" /></p>
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandnibhadarka&theme=github_dark)
