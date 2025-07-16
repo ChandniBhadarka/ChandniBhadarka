@@ -40,7 +40,7 @@
 ---
 
 ### 📬 Reach me:
-- LinkedIn: https://www.linkedin.com/in/chandnibhadarka
+- [LinkedIn](https://www.linkedin.com/in/chandnibhadarka/)  
  
 
 ---
