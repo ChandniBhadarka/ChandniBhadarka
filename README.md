@@ -54,18 +54,32 @@
 ## 💼 Areas of Expertise 
 <div style="display: flex; justify-content: center;">
 
-|                                          |                                          |
-|------------------------------------------|------------------------------------------|
-| 🤖 AI & Machine Learning                 | 🛡️ AI in Cybersecurity                     |
-| 🗣️ NLP & Text Generation                 | ⚙️ Agentic AI                              |
-| 🎨 Generative AI                         | 📊 Data Science & Predictive Analytics      |
-| 👁️ Computer Vision & Deep Learning       | 📈 Exploratory Data Analysis (EDA)          |
-| 🌐 AI-Driven Web Application Development | 📊 Data Visualization                      |
-| 💾 Model Deployment                      | 🛠️ Feature Engineering                      |
-| 🔄 Data Preprocessing                    | 🗂️ Data Handling & Manipulation             |
-| 📚 Libraries & Frameworks                 | 🛠️ Tools & Platforms                        |
-| 🌱 Version Control & Collaboration        | 🌍 Cloud & Deployment Services               |
-| 💡 Other Technical Skills                 | 🌐 Web Development & APIs                   |
+| **Data Science & AI**                        | **AI Engineering & MLOps**                   |
+| -------------------------------------------- | -------------------------------------------- |
+| 🧠 Machine Learning (ML)                     | 🚀 Model Deployment (Docker, FastAPI, Flask) |
+| 🤖 Deep Learning (DL)                        | ☁️ Cloud Deployment (AWS, GCP, Azure)        |
+| 🗣️ Natural Language Processing (NLP)        | 🔄 CI/CD for AI (MLflow, Kubeflow, Jenkins)  |
+| 🎨 Generative AI / LLMs (ChatGPT, LangChain) | 🧑‍💻 REST APIs for AI/ML models             |
+| 📊 Predictive Analytics & Statistics         | 🛡️ AI in Cybersecurity / AI Governance      |
+| 🔍 Exploratory Data Analysis (EDA)           | 🔧 Model Monitoring & Performance Tuning     |
+| 📈 Data Visualization (Matplotlib, Seaborn)  | 🏗️ Scalable AI Pipelines (Airflow, Prefect) |
+| 🛠️ Feature Engineering                      | 📦 Containerization (Docker, Kubernetes)     |
+
+| **Data Engineering & Handling**                 | **Full Stack Development (AI Integration)** |
+| ----------------------------------------------- | ------------------------------------------- |
+| 🗂️ Data Wrangling & Preprocessing              | 🌐 AI-Driven Web Application Development    |
+| 🧹 Data Cleaning & Manipulation (Pandas, Numpy) | 📲 Frontend (React / Next.js / Tailwind)    |
+| 🏢 Databases (SQL, NoSQL, BigQuery)             | 🖥️ Backend (Node.js / Django / FastAPI)    |
+| 🔄 ETL / ELT Processes                          | 🔌 API Integration (GraphQL / REST)         |
+| 📄 Data Versioning (DVC, LakeFS)                | 🌍 Microservices Architecture               |
+
+| **Core Technologies & Tools**                                     | **Collaboration & Best Practices**               |
+| ----------------------------------------------------------------- | ------------------------------------------------ |
+| 📚 Python, R, SQL, Shell Scripting                                | 📈 Agile, Scrum, Kanban                          |
+| 🛠️ Libraries (Scikit-Learn, PyTorch, TensorFlow, SpaCy, XGBoost) | 🤝 Git, GitHub, GitLab                           |
+| ⚙️ Tools (Jupyter, VSCode, Colab, W\&B)                           | 🗂️ Documentation (Markdown, Notion, Confluence) |
+| 🔐 Version Control, Code Reviews                                  | 💡 Team Collaboration, Knowledge Sharing         |
+
 
 </div>
 
