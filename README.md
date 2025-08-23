@@ -11,7 +11,9 @@
   <a href="https://www.hackerrank.com/profile/chandnibhadarka"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chandnibhadarka&color=blue" alt="Profile views"/>
+</p>
 
 <!--
 <p align="center">
@@ -28,21 +30,15 @@
 
 "Every line of code is more than logic — it’s a step toward shaping how the future will think, learn, and connect."  
 
-As a B.Tech student in **Information and Communication Technology** at Marwadi University, Rajkot. My journey in technology has been guided by curiosity and a deep desire to understand how **artificial intelligence and data science** can transform complexity into clarity and unlock new possibilities.  
+As a B.Tech student in **Information and Communication Technology** at Marwadi University, Rajkot. My curiosity drives me to explore how **AI and Data Science** can turn complexity into clarity and unlock new possibilities.  
 
-For me, AI is not just about models and algorithms — it’s about asking *why*.  
-Why does this solution matter? Who does it serve? How can it evolve to meet the challenges of tomorrow? These questions shape the way I approach problems and remind me that meaningful innovation lies at the intersection of **technology and human experience**.  
+For me, innovation begins with asking *why* — why does this solution matter, who does it impact, and how can it evolve for the future?  
 
-My goal is to deepen my expertise, collaborate across disciplines, and contribute to research that drives impact in both academia and industry.  
+My journey is guided by a pursuit to transform **questions into knowledge, knowledge into innovation, and innovation into impact**.  
+  
+ <li>🌐 Exploring diverse domains of Artificial Intelligence to develop a well-rounded understanding and practical expertise.</li>
+ <li>🛡️ Engaging with various disciplines within Data Science to enhance analytical thinking and broaden domain knowledge.</li>
 
-My journey is guided by a single pursuit: to transform questions into knowledge, knowledge into innovation, and innovation into impact.  
-
-
-
-<ul>
-  <li>🌐 Exploring diverse domains of Artificial Intelligence to develop a well-rounded understanding and practical expertise.</li>
-  <li>🛡️ Engaging with various disciplines within Data Science to enhance analytical thinking and broaden domain knowledge.</li>
-</ul>
 
 </div>
 
@@ -144,6 +140,4 @@ My journey is guided by a single pursuit: to transform questions into knowledge,
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandnibhadarka&theme=github_dark)
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandnibhadarka&color=blue" alt="Profile views"/>
-</p>
+
