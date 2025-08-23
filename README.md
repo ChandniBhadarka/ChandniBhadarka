@@ -11,9 +11,7 @@
   <a href="https://www.hackerrank.com/profile/chandnibhadarka"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandnibhadarka&color=blue" alt="Profile views"/>
-</p>
+
 
 <!--
 <p align="center">
@@ -26,11 +24,22 @@
 
 <div>
 
-<h3>🧠 Skills & Interests:</h3>
+## 👩‍💻 About Me  
+
+"Every line of code is more than logic — it’s a step toward shaping how the future will think, learn, and connect."  
+
+As a B.Tech student in **Information and Communication Technology** at Marwadi University, Rajkot. My journey in technology has been guided by curiosity and a deep desire to understand how **artificial intelligence and data science** can transform complexity into clarity and unlock new possibilities.  
+
+For me, AI is not just about models and algorithms — it’s about asking *why*.  
+Why does this solution matter? Who does it serve? How can it evolve to meet the challenges of tomorrow? These questions shape the way I approach problems and remind me that meaningful innovation lies at the intersection of **technology and human experience**.  
+
+My goal is to deepen my expertise, collaborate across disciplines, and contribute to research that drives impact in both academia and industry.  
+
+My journey is guided by a single pursuit: to transform questions into knowledge, knowledge into innovation, and innovation into impact.  
+
+
 
 <ul>
-  <li>🔍 <strong>Artificial Intelligence, Machine Learning, and Deep Learning</strong></li>
-  <li>📊 <strong>Data Science, NLP, Network Security</strong></li>
   <li>🌐 Exploring diverse domains of Artificial Intelligence to develop a well-rounded understanding and practical expertise.</li>
   <li>🛡️ Engaging with various disciplines within Data Science to enhance analytical thinking and broaden domain knowledge.</li>
 </ul>
@@ -39,9 +48,8 @@
 
 ---
 
-### 📬 Reach me:
-- [LinkedIn](https://www.linkedin.com/in/chandnibhadarka/)  
- 
+### 🚀 If you're looking for a forward-thinking professional to collaborate on cutting-edge AI/ML projects, let’s connect!
+ 🔗 Looking forward to building something great together!  [LinkedIn](https://www.linkedin.com/in/chandnibhadarka/)  
 
 ---
 
@@ -51,37 +59,28 @@
 
 ---
 
-## 💼 Areas of Expertise 
-<div style="display: flex; justify-content: center;">
+## 💼 Areas of Expertise  
 
-| **Data Science & AI**                        | **AI Engineering & MLOps**                   |
-| -------------------------------------------- | -------------------------------------------- |
-| 🧠 Machine Learning (ML)                     | 🚀 Model Deployment ( FastAPI, Flask) |
-| 🤖 Deep Learning (DL)                        | ☁️ Cloud Deployment (AWS, GCP, Azure)        |
-| 🗣️ Natural Language Processing (NLP)        | 🔄 CI/CD for AI (MLflow, Kubeflow, Jenkins)  |
-| 🎨 Generative AI / LLMs                      | 🧑‍💻 REST APIs for AI/ML models             |
-| 📊 Predictive Analytics & Statistics         | 🛡️ AI in Cybersecurity / AI Governance      |
-| 🔍 Exploratory Data Analysis (EDA)           | 🔧 Model Monitoring & Performance Tuning     |
-| 📈 Data Visualization                        | 🏗️ Scalable AI Pipelines                    |
-| 🛠️ Feature Engineering                      | 📦 Containerization                          |
+**Data Science & AI**  
+- 🧠 Machine Learning (ML), Deep Learning (DL), NLP, Generative AI/LLMs  
+- 📊 Predictive Analytics, EDA, Data Visualization, Feature Engineering  
 
-| **Data Engineering & Handling**                 | **Full Stack Development (AI Integration)** |
-| ----------------------------------------------- | ------------------------------------------- |
-| 🗂️ Data Wrangling & Preprocessing              | 🌐 AI-Driven Web Application Development    |
-| 🧹 Data Cleaning & Manipulation                 | 📲 Frontend                                |
-| 🏢 Databases (SQL, NoSQL, BigQuery)             | 🖥️ Backend ( FastAPI)                       |
-| 🔄 ETL / ELT Processes                          | 🔌 API Integration (GraphQL / REST)         |
-| 📄 Data Versioning                              | 🌍 Microservices Architecture               |
+**AI Engineering & MLOps**  
+- 🚀 Model Deployment (FastAPI, Flask), ☁️ Cloud (AWS, GCP, Azure)  
+- 🔄 CI/CD for AI (MLflow, Kubeflow), 🔧 Model Monitoring & Optimization  
+- 🏗️ Scalable AI Pipelines
 
-| **Core Technologies & Tools**                            | **Collaboration & Best Practices**       |
-| -------------------------------------------------------- | -----------------------------------------|
-| 📚 Python, R, SQL, Shell Scripting                      | 📈 Agile, Scrum, Kanban                  |
-| 🛠️ Libraries (Scikit-Learn, PyTorch, TensorFlow, SpaCy) | 🤝 Git, GitHub, GitLab                   |
-| ⚙️ Tools (Jupyter, VSCode, Colab)                       | 🗂️ Documentation                         |
-| 🔐 Version Control, Code Reviews                        | 💡 Team Collaboration                    |
+**Data Engineering**  
+- 🧹 Data Cleaning, Wrangling & Preprocessing  
+- 🗂️ Databases (SQL, NoSQL, BigQuery), 🔄 ETL/ELT  
 
+**Full Stack (AI Integration)**  
+- 🌐 AI-driven Web Apps, 🔌 REST/GraphQL APIs, 🌍 Microservices  
 
-</div>
+**Core Tools & Practices**  
+- 📚 Python, R, SQL | 🔥 PyTorch, TensorFlow, Scikit-learn, SpaCy  
+- 🤝 Git/GitHub, 📈 Agile, 🗂️ Documentation & Team Collaboration  
+
 
 ---
 
@@ -143,3 +142,8 @@
 ## GitHub Stats
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandnibhadarka&theme=github_dark)
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chandnibhadarka&color=blue" alt="Profile views"/>
+</p>
