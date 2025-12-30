@@ -51,28 +51,19 @@ My journey is guided by a pursuit to transform **questions into knowledge, knowl
 
 ---
 
-## 💼 Areas of Expertise  
+## ⚡ AI • Data • Engineering
 
-**Data Science & AI**  
-- 🧠 Machine Learning (ML), Deep Learning (DL), NLP, Generative AI/LLMs  
-- 📊 Predictive Analytics, EDA, Data Visualization, Feature Engineering  
+**Senior AI Engineer** building **production ML systems** and **LLM-powered products**.
 
-**AI Engineering & MLOps**  
-- 🚀 Model Deployment (FastAPI, Flask), ☁️ Cloud (AWS, GCP, Azure)  
-- 🔄 CI/CD for AI (MLflow, Kubeflow), 🔧 Model Monitoring & Optimization  
-- 🏗️ Scalable AI Pipelines
+### 🚀 What I work on
+- 🧠 **ML / GenAI:** Machine Learning, Deep Learning, NLP, LLMs  
+- 🔄 **MLOps:** FastAPI, CI/CD, Model Monitoring, AWS · GCP · Azure  
+- 🗄️ **Data:** ETL/ELT pipelines, SQL/NoSQL, BigQuery  
+- 🌐 **AI Products:** APIs, Microservices, Real-time Inference  
 
-**Data Engineering**  
-- 🧹 Data Cleaning, Wrangling & Preprocessing  
-- 🗂️ Databases (SQL, NoSQL, BigQuery), 🔄 ETL/ELT  
+---
 
-**Full Stack (AI Integration)**  
-- 🌐 AI-driven Web Apps, 🔌 REST/GraphQL APIs, 🌍 Microservices  
-
-**Core Tools & Practices**  
-- 📚 Python, R, SQL | 🔥 PyTorch, TensorFlow, Scikit-learn, SpaCy  
-- 🤝 Git/GitHub, 📈 Agile, 🗂️ Documentation & Team Collaboration  
-
+### 🧩 Core Stack
 
 ---
 
