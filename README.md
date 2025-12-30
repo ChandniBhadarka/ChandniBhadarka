@@ -35,10 +35,6 @@ As a B.Tech student in **Information and Communication Technology** at Marwadi U
 For me, innovation begins with asking *why* — why does this solution matter, who does it impact, and how can it evolve for the future?  
 
 My journey is guided by a pursuit to transform **questions into knowledge, knowledge into innovation, and innovation into impact**.  
-  
- <li>🌐 Exploring diverse domains of Artificial Intelligence to develop a well-rounded understanding and practical expertise.</li>
- <li>🛡️ Engaging with various disciplines within Data Science to enhance analytical thinking and broaden domain knowledge.</li>
-
 
 </div>
 
