@@ -53,28 +53,10 @@ My journey is guided by a pursuit to transform **questions into knowledge, knowl
 
 ## ⚡ AI • Data • Engineering
 
-**Senior AI Engineer** building **production ML systems** and **LLM-powered products**.
-
-### 🚀 What I work on
-- 🧠 **ML / GenAI:** Machine Learning, Deep Learning, NLP, LLMs  
-- 🔄 **MLOps:** FastAPI, CI/CD, Model Monitoring, AWS · GCP · Azure  
-- 🗄️ **Data:** ETL/ELT pipelines, SQL/NoSQL, BigQuery  
-- 🌐 **AI Products:** APIs, Microservices, Real-time Inference  
-
----
-
-### 🧩 Core Stack
-
----
-
 ### 💻 Languages:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
 
-
-
-
----
 
 ### 🤖 AI / ML:
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
@@ -90,8 +72,6 @@ My journey is guided by a pursuit to transform **questions into knowledge, knowl
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B0082?style=flat)
 ![🤗 HuggingFace](https://img.shields.io/badge/HuggingFace-FEDC56?style=flat)
 
----
-
 ### 🌐 Web App Development:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -101,13 +81,8 @@ My journey is guided by a pursuit to transform **questions into knowledge, knowl
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-
----
-
 ### 🗃️ Database:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-
----
 
 ### 🧰 Tools & IDEs:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
